@@ -4,3 +4,13 @@ image:
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - zhuangtongfa.material-theme@3.9.12:Mux3SLPUD9eC/ViLapiR9g==
+    - esbenp.prettier-vscode@5.8.0:cd2Jz796EPVnD5zeCyctPw==
+    - abusaidm.html-snippets@0.2.1:HrYIjYqOIABbxFB9g9kqXQ==
+    - ritwickdey.liveserver@5.6.1:5Mhl1RgVVDcIym163x8r+w==
+    - anteprimorac.html-end-tag-labels@0.6.0:Mm/oQG5MYO/W/AD2YEUQxw==
+    - formulahendry.auto-close-tag@0.5.9:+RYHu1HN3BGIwbss/7NjBA==
+    - kamikillerto.vscode-colorize@0.8.17:VdHiK/JcSqH73ewFEVayBg==
