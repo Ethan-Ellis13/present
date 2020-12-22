@@ -2,3 +2,7 @@
 
 # present
 Our Mom and Dad's Christmas present for 2020!!
+
+-Website Made by Ethan
+
+-Video & Edits Done by ManMan
