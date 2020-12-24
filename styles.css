@@ -3,6 +3,7 @@ body {
     background: #111;
     margin: 0;
     padding-top: 150px;
+    overflow-x: hidden;
 }
 
 .present {
